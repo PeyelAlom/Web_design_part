@@ -108,13 +108,14 @@ body{
 	color:#6B710E;
 }
 #footer{
-	background-color:#635548;
+	background-color:gray;
 	padding:10px;
 	text-align:center;
 }
 #footer p{
 	color:#fff;
 	font-weight: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
